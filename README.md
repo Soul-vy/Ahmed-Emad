@@ -8,16 +8,16 @@
 
 <img src = 'Adds/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-- 🎓 Undergraduate **Communication Engineering Student (ECE)**  
+- 🎓 Undergraduate **Communication Engineering Student (ECE)**
+
 - 💻 Currently learning **Verilog, ASIC Flow, and Verification**
 - 👨‍🏫 Instructor in **Digital Design & Hardware** 
 - 🤝 Seeking collaboration on **Digital IC Design, ASIC, and Embedded Systems Projects**
 - 🏅 [Certificates](https://drive.google.com/drive/folders/1yynA24OzWugxN8eEFZlnseJDQ4_q_3HI?usp=sharing)
 - ⚡ Passionate about **Chip Design, Hardware Projects, and PCB Design**  
 - 📧 My Business Email: **ahmedemadaboelsauud@gmail.com**
-
---- 
-
+ 
+<br><br>
 ## 🌐 Connect with Me 
 
 <p align="left">
@@ -38,6 +38,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
   </a> 
 </p>
+<br>
 
 ## 🛠️ Skills  
 
@@ -65,16 +66,27 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Studio" width="40" height="40"/></code>
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+  <br><br>
+  <img src = 'Adds/under-construction.gif' alt = 'construct' align='Center'/>
 </p>  
-
-<img src = 'Adds/under-construction.gif' alt = 'construct' align='Center'/>
 
 ---
 
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soul-vyl&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soul-vy&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soul-vy&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
-<img src = 'Adds/Ic.webp' alt = 'ic' align='left'/>
+---
+
+<h3 align="center">👀 Profile Views</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soul-vyl&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+  <img src = 'Adds/Ic.webp' alt = 'ic' align='Center'/>
+</p>
+
 
 
