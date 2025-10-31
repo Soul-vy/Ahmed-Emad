@@ -66,7 +66,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Studio" width="40" height="40"/></code>
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
-  <br><br>
+  <br><br><br>
   <img src = 'Adds/under-construction.gif' alt = 'construct' align='Center'/>
 </p>  
 
