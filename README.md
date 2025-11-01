@@ -12,9 +12,9 @@
 
 - 💻 Currently learning **Verilog, ASIC Flow, and Verification**
 - 👨‍🏫 Instructor in **Digital Design & Hardware** 
-- 🤝 Seeking collaboration on **Digital IC Design, ASIC, and Embedded Systems Projects**
 - 🏅 [Certificates](https://drive.google.com/drive/folders/1yynA24OzWugxN8eEFZlnseJDQ4_q_3HI?usp=sharing)
-- ✨ Passionate about **Hardware Projects, and PCB Design**  
+- ✨ Passionate about **Hardware Projects, and PCB Design**
+- 🤝 Seeking collaboration on **Digital IC Design, ASIC, and Embedded Systems Projects**
 - 📧 My Business Email: **ahmedemadaboelsauud@gmail.com**
  
 <br><br>
